@@ -1,0 +1,27 @@
+body {
+    background: #0d6efd;
+}
+
+#voted{
+    background-color: grey;
+    color: black;
+}
+
+#votebtn{
+    background-color:rgb(3, 81, 16);
+    color: white;
+}
+nav {
+    margin-bottom: 50px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  footer{
+    background: black; 
+    color:white;
+    margin-top: 7rem;
+}
